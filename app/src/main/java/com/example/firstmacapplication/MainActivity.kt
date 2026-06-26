@@ -60,7 +60,7 @@ fun FirstMacApplicationApp() {
             modifier = Modifier.fillMaxSize(),
             content = { innerPadding ->
                 Greeting(
-                    name = "Android",
+                    name = "Android hgfytf",
                     modifier = Modifier.padding(innerPadding)
                 )
             },
